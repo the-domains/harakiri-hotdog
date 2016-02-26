@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Harakiri Hotdog]]></title>
         <description><![CDATA[Harakiri Hotdog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/harakiri-hotdog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 08:35:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 08:55:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/harakiri-hotdog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22523e40-e1e0-408e-bee1-886a6132f9ad.png">]]></description>
+            <link>https://thegrid.ai/harakiri-hotdog/ef74dc8d-d507-4b51-9701-e751e6a501b4/index.html</link>
+            <guid isPermaLink="false">ef74dc8d-d507-4b51-9701-e751e6a501b4</guid>
+            <pubDate>Fri, 26 Feb 2016 08:54:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Alex Preston vet hur det är att stå öga mot öga med döden. Nu har han valt att berätta om sitt liv – med spelet Hyper Light Drifter.</p>]]></description>
-            <link>undefined4a3f42af-480d-4c1e-b384-d78e9fc617f3/index.html</link>
+            <link>https://thegrid.ai/harakiri-hotdog/4a3f42af-480d-4c1e-b384-d78e9fc617f3/index.html</link>
             <guid isPermaLink="false">4a3f42af-480d-4c1e-b384-d78e9fc617f3</guid>
             <pubDate>Fri, 26 Feb 2016 08:34:45 GMT</pubDate>
         </item>
